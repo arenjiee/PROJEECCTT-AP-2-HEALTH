@@ -120,6 +120,3 @@ def healthcheck():
             print("⚠ Jangan olahraga terlalu lama (>90 menit), nanti tubuh malah kelelahan 😔")
 
     print("\nTerima kasih udah ngecek hari ini🫰🏻 Semoga harimu tetap menyenangkan!")
-
-
-healthcheck()

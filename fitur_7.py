@@ -103,6 +103,3 @@ def main():
     print("Nama:", nama)
     print("Total Skor:", total_skor)
     print("Kategori:", hasil)
-
-# Jalankan program
-main()

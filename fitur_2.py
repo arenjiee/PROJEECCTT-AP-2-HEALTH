@@ -167,7 +167,3 @@ def fitur_2():
             print("\nTerima kasih telah menggunakan SmartFat Calculator 🤩 ")
             print("Tetap jaga kesehatan dan semangat! 👋")
             break
-
-fitur_2()
-
-

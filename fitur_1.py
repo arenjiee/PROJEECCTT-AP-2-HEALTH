@@ -61,4 +61,3 @@ def hitung_BMI():
 
         except ValueError:
             print("\n ⚠ INPUTAN HANYA BOLEH ANGKA ⚠\n")
-hitung_BMI()

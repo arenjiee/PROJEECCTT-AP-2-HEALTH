@@ -59,6 +59,3 @@ def cek_mood():
         print(f"Hmzz.. suasana hatimu berada ditengah-tengah🙂. Tapi tetap tenang yaa, jangan sampe kamu down😉")
     else:
         print(f"Alhamdulillah YEYY suasana hatimu cukup baik hari ini🤩✨. Semoga energi positifnya berlanjut yaaa🌞")
-
-cek_mood ()
-
