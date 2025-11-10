@@ -1,10 +1,10 @@
 import fitur_4, fitur_3_healthcheck, fitur_2, fitur_6_cek_mood, fitur_1, fitur_5, fitur_7
-import show
+from show import greeting, menu
 
 def main():
-    show.greeting()
+    greeting()
     while True:
-        show.menu()
+        menu()
         try:     
             pilihan = int(input("Pilih Menu (1-8): "))
 
