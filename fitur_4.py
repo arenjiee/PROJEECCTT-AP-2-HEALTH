@@ -1,4 +1,4 @@
-from db import database_set
+import database_set
 import re
 
 daftar_workout = ["push up", "sit up", "plank", "squat", 
